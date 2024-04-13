@@ -90,7 +90,7 @@ myVariableName = "John" #camel case
 
 MyVariableName = "John" #Pascal case
 
-my_variable_name = "John" #snake case
+my_variable_name = "John" #paint case
 
 #Python Multiple Values
 x, y, z = "Orange", "Banana", "Cherry"
